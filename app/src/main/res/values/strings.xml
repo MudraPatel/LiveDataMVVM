@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="item_name">Item Name</string>
+    <string name="person_name">Person Name</string>
+    <string name="set_date">Set Date</string>
+    <string name="username">Username: </string>
+    <string name="personname">Name: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="website">Website: </string>
+    <string name="address">Address:</string>
+</resources>
